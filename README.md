@@ -15,7 +15,7 @@ Open to collaborating on projects with a clear purpose and good communication.
 
 ### 👨‍💻 Languages
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cs,go,cpp,php)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cs,go)
 
 ### ⚛️ Frontend
 
