@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+Systems;Automation+%26+AI+Enthusiast&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AArmendarizB&theme=github-dark&hide_border=true&border_radius=20" />
+</p>
+
 ---
 
 ## 🧠 About
