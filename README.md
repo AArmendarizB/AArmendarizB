@@ -1,15 +1,12 @@
 # 👋 Hi, I'm Andrés
 
 💻 **Computer Science Engineer** — I work as a software engineer.
-
 🚀 Interested in web development, mobile development, and creative systems.
-
 🌱 Always learning and building new things.
 
 ---
 
 ### About
-
 Open to collaborating on projects with a clear purpose and good communication.
 
 ---
@@ -34,28 +31,16 @@ Open to collaborating on projects with a clear purpose and good communication.
 
 ### 🧪 Testing
 
-![Testing](https://skillicons.dev/icons?i=jest)
+![Testing](https://skillicons.dev/icons?i=jest,pytest,selenuim)
 
-- Selenium WebDriver  
-- Pytest  
-- Integration testing  
-- Unit testing  
 
 ### ⚙️ DevOps & Cloud
 
-![DevOps & Cloud](https://skillicons.dev/icons?i=git,github,docker,aws)
-
-- GitHub Actions  
-- CI/CD pipelines  
-- Datadog  
+![DevOps & Cloud](https://skillicons.dev/icons?i=git,github,docker,aws,datadog) 
 
 ### 🧰 Tools
 
-![Tools](https://skillicons.dev/icons?i=figma)
-
-- Jira  
-- Postman  
-- Joomla / WordPress  
+![Tools](https://skillicons.dev/icons?i=figma,jira,postman,joomla,wordpress)
 
 ---
 
