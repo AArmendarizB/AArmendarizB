@@ -45,29 +45,58 @@ I also work on automation and AI-driven tools to help professionals and business
 ---
 
 ## 🛠️ Tech Stack
+<table>
+  <tr>
+    <td><strong>👨‍💻 Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,go" />
+    </td>
+  </tr>
 
-### 👨‍💻 Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cs,go)
+  <tr>
+    <td><strong>⚛️ Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,angular,html,css,materialui" />
+    </td>
+  </tr>
 
-### ⚛️ Frontend
-![Frontend](https://skillicons.dev/icons?i=react,angular,html,css,materialui)
+  <tr>
+    <td><strong>🧠 Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+    </td>
+  </tr>
 
-### 🧠 Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,spring)
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+    </td>
+  </tr>
 
-### 🗄️ Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
+  <tr>
+    <td><strong>🧪 Testing</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest" /><br/>
+      Selenium WebDriver
+    </td>
+  </tr>
 
-### 🧪 Testing
-![Testing](https://skillicons.dev/icons?i=jest,selenium)
+  <tr>
+    <td><strong>⚙️ DevOps & Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+    </td>
+  </tr>
 
-### ⚙️ DevOps & Cloud
-![DevOps & Cloud](https://skillicons.dev/icons?i=git,github,docker,aws)
-
-### 🧰 Tools
-![Tools](https://skillicons.dev/icons?i=figma,wordpress)
-
----
+  <tr>
+    <td><strong>🧰 Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,wordpress" /><br/>
+      Jira · Postman
+    </td>
+  </tr>
+</table>
 
 ## 📈 Currently
 
