@@ -27,8 +27,6 @@
 Software engineer with experience building scalable applications across web and mobile environments.  
 I enjoy solving complex problems, designing clean architectures, and creating solutions that generate real impact.
 
-I also work on automation and AI-driven tools to help professionals and businesses improve workflows, efficiency, and decision-making.
-
 ---
 
 ## 🛠️ Tech Stack
