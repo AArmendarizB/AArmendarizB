@@ -25,25 +25,6 @@ I also work on automation and AI-driven tools to help professionals and business
 
 ---
 
-## 🚀 What I Do
-
-- Build full-stack web and mobile applications  
-- Design scalable and maintainable systems  
-- Develop automation tools to optimize workflows  
-- Apply AI solutions to real-world problems  
-- Continuously learn and explore new technologies  
-
----
-
-## 🧩 Projects & Interests
-
-- 📱 Mobile and web applications focused on usability and performance  
-- 🧠 AI-powered tools for automation and productivity  
-- 🌐 Systems that combine backend logic with interactive interfaces  
-- 🚀 Personal projects exploring new technologies and ideas  
-
----
-
 ## 🛠️ Tech Stack
 <table>
   <tr>
@@ -97,12 +78,6 @@ I also work on automation and AI-driven tools to help professionals and business
     </td>
   </tr>
 </table>
-
-## 📈 Currently
-
-- Exploring AI applications for automation and productivity  
-- Building personal projects across web and mobile  
-- Improving system design and scalable architectures  
 
 ---
 
