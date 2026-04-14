@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrés
+# 👋 Hi, I'm Andrés (Andy)
 
 💻 **Computer Science Engineer** — I work as a software engineer.
 🚀 Interested in web development, mobile development, and creative systems.
@@ -6,15 +6,21 @@
 
 ---
 
-<p align="center">
+<p align="center" justify-content="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+Systems;Automation+%26+AI+Enthusiast&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AArmendarizB&theme=github-dark&hide_border=true&border_radius=20" />
-</p>
+<table align="center" border-style="hidden">
+  <tr>
+    <td>
+      <img height="170" src="https://streak-stats.demolab.com?user=AArmendarizB&theme=github-dark&hide_border=true&border_radius=20" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=AArmendarizB&hide=stars&show_icons=true&hide_border=true&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
----
 
 ## 🧠 About
 
